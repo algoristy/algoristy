@@ -7,7 +7,7 @@
 </p>
 
 
-[![Github](https://img.shields.io/github/followers/algoristy?label=Follow&style=social)](https://github.com/algoristy)
+
 
 <div size='20px'> Hey Visitor!! I am Prince aka algoristy, a student at IIIT Allahabad. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
